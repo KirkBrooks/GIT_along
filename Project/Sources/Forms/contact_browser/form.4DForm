@@ -29,7 +29,7 @@
 					"left": 16,
 					"top": 43,
 					"width": 293,
-					"height": 374,
+					"height": 419,
 					"events": [
 						"onClick",
 						"onHeaderClick",
@@ -89,11 +89,19 @@
 					"events": [
 						"onClick"
 					]
+				},
+				"Static Picture1": {
+					"type": "picture",
+					"top": 322,
+					"left": 329,
+					"width": 510,
+					"height": 140,
+					"picture": "Images/IMG_3489.jpg"
 				}
 			}
 		}
 	],
-	"geometryStamp": 16,
+	"geometryStamp": 21,
 	"method": "method.4dm",
 	"editor": {
 		"activeView": "View 1",
