@@ -1,0 +1,14 @@
+{
+	"Sources/Forms/contact_browser/method.4dm": {
+		"left": 2229,
+		"top": 364,
+		"width": 964,
+		"height": 791
+	},
+	"Sources/Forms/contact_detail/method.4dm": {
+		"left": 315,
+		"top": 699,
+		"width": 964,
+		"height": 791
+	}
+}

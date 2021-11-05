@@ -1,0 +1,16 @@
+{
+	"forms": {
+		"contact_browser": {
+			"timeStamp": "2021-11-05T21:53:08.609Z",
+			"destination": "detailScreen"
+		},
+		"contact_detail": {
+			"timeStamp": "2021-11-05T21:46:18.999Z",
+			"destination": "detailScreen"
+		},
+		"logo": {
+			"timeStamp": "2021-11-05T21:47:21.174Z",
+			"destination": "detailScreen"
+		}
+	}
+}

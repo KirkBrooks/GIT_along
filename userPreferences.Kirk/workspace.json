@@ -1,0 +1,18 @@
+{
+	"editors": [
+		{
+			"type": "form",
+			"id": 218,
+			"formName": "contact_browser"
+		},
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "toolbox"
+		},
+		{
+			"type": "structure"
+		}
+	]
+}

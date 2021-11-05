@@ -1,0 +1,23 @@
+{
+	"Sources/Forms/contact_browser/method.4dm": {
+		"startSelection": 53,
+		"endSelection": 53,
+		"firstSelectedLine": 33,
+		"lastSelectedLine": 33,
+		"folding": [
+			28,
+			30
+		],
+		"bookmarks": [],
+		"stamp": "2021-11-05T21:55:21.641Z"
+	},
+	"Sources/Forms/contact_detail/method.4dm": {
+		"startSelection": 57,
+		"endSelection": 57,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-11-05T21:45:59.987Z"
+	}
+}
